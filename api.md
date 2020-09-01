@@ -164,13 +164,11 @@ _C.string.upper(str)
 _C.string.lower(str)
 _C.string.format(...)
 _C.string.sub(str, from, to)
-
--- Currently, I wrapped these as they are *something internal*
-_C.string.find = string.find
-_C.string.match = string.match
-_C.string.gmatch = string.gmatch
-_C.string.gsub = string.gsub
-_C.string.dump = string.dump
+_C.string.find(str, pattern [, init [, plain]])
+_C.string.match(str, pattern [, init])
+_C.string.gmatch(str, pattern)
+_C.string.gsub(str, pattern, repl [, n])
+_C.string.dump(function [, strip])
 ```
 
 ### table
