@@ -62,7 +62,7 @@ end
 
 - Roberto Ierusalimschy, For ["Programming in Lua" book](https://www.lua.org/pil/contents.html).
 - [Diego Martínez](https://github.com/kaeza) for [bitty](https://gist.github.com/kaeza/8ee7e921c98951b4686d) (I used bnot from bitty).
-- [Astie Teddy](https://github.com/TSnake41) for tracing logs implementation (Originated from raylib-lua).
+- [Astie Teddy](https://github.com/TSnake41) for trace log implementation.
 
 ### License
 
