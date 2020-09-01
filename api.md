@@ -69,7 +69,7 @@ _C.getmetatable(t, mt)
 
 ### math
 
-``lua
+```lua
 _C.math.abs(a)
 _C.math.acos(a)
 _C.math.asin(a)
@@ -175,7 +175,7 @@ _C.string.dump = string.dump
 
 ### table
 
-``lua
+```lua
 _C.table.remove(t, i)
 _C.table.insert(t, i)
 _C.table.concat(t, s)
