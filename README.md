@@ -5,7 +5,7 @@
 <div align="center"><img src="https://github.com/Rabios/CLua/blob/master/clua_logo.png"></div>
 <br>
 
-<a href="https://img.shields.io/github/repo-size/Rabios/CLua">
+<a href="https://img.shields.io/github/repo-size/Rabios/CLua"></a>
 
 Most of Lua functions implementation via C code using LuaJIT's FFI and pure Lua code.
 
