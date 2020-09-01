@@ -5,6 +5,8 @@
 <div align="center"><img src="https://github.com/Rabios/CLua/blob/master/clua_logo.png"></div>
 <br>
 
+<a href="https://img.shields.io/github/repo-size/Rabios/CLua">
+
 Most of Lua functions implementation via C code using LuaJIT's FFI and pure Lua code.
 
 So...You can say that CLua is actually a code booster LOL, And modified version Lua in same time :)
