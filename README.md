@@ -58,6 +58,10 @@ end
 3. Some functions are internal so they still use original Lua ones. (And not rewritten!)
 4. If you get 0 as values for variables created via FFI, See [`ctypes.lua`](https://github.com/Rabios/CLua/blob/master/src/ctypes.lua) types functions, With using `_C.tonumber` and `_C.tostring` when needed!
 
+### TODO
+
+1. Pure math functions implementation: Even if not all pure, We could use pure Lua code so it would be better.
+
 ### Special Thanks
 
 - Roberto Ierusalimschy, For ["Programming in Lua" book](https://www.lua.org/pil/contents.html).
