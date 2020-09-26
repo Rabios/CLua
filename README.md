@@ -60,7 +60,7 @@ end
 
 ### TODO
 
-1. Pure math functions implementation: Even if not all pure, We could use pure Lua code so it would be better.
+- [ ] Better and more pure math functions implementation: Even if not all pure, We could use pure Lua code so it would be better.
 
 ### Special Thanks
 
