@@ -1,6 +1,8 @@
 # CLua (Codenamed "RACCOON")
 
-> NOTES: Project only for LuaJIT, If you don't use LuaJIT install luaffi from LuaRocks to use this! :(
+> NOTE 1: Project evolved into [polyfill.lua](https://github.com/Rabios/polyfill.lua), Follow me!
+
+> NOTE 2: Project only for LuaJIT, If you don't use LuaJIT install luaffi from LuaRocks to use this! :(
 
 <div align="center"><img src="https://github.com/Rabios/CLua/blob/master/clua_logo.png"></div>
 <br>
